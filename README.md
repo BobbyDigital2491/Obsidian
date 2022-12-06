@@ -1,1 +1,1 @@
-# TripleC
+# obsidian
